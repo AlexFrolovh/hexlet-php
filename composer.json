@@ -3,7 +3,7 @@
     "description": "hexlet php project",
     "autoload": {
         "files": ["src/Runner.php"]
-    }
+    },
     "authors": [
         {
             "name": "alex",
