@@ -1,18 +1,21 @@
 {
-    "name": "alex/hexlet-php",
-    "description": "hexlet php project",
-    "autoload": {
-        "psr-4": {
-            "Alex\\HexletPhp\\": "src/"
+    name: alex/hexlet-php,
+    description: hexlet php project,
+    autoload: {
+        files: [
+            src/Runner.php
+        ]
+        psr-4: {
+            Alex\HexletPhp\: src/
         }
     },
-    "authors": [
+    authors: [
         {
-            "name": "alex",
-            "email": "alexfrolovyh@list.ru"
+            name: alex,
+            email: alexfrolovyh@list.ru
         }
     ],
-    "require": {
-        "illuminate/collections": "^11.27"
+    require: {
+        illuminate/collections: ^11.27
     }
 }
