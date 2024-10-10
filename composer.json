@@ -4,6 +4,9 @@
     "autoload": {
         "files": ["src/Runner.php"]
     },
+    "scripts": {
+    "phpcs": "phpcs"
+  },
     "authors": [
         {
             "name": "alex",
