@@ -2,10 +2,10 @@
     "name": "lev/hexlet-php",
     "description": "hexlet project",
     "autoload": {
-        "files": ["src/Runner.php"],
         "psr-4": {
             "Lev\\HexletPhp\\": "src/"
-        }
+        },
+        "files": ["src/Runner.php"]
     },
     "authors": [
         {
