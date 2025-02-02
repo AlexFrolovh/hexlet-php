@@ -12,5 +12,7 @@
             "email": "alexfrolovyh@list.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^11.41"
+    }
 }
