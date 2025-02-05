@@ -3,7 +3,7 @@
     "description": "hexlet project",
     "autoload": {
         "psr-4": {"Lev\\HexletPhp\\": "src/"},
-        "files": {"src/Runner.php"}
+        "files": {"src/Runner.php" :}
     },
     "authors": [
         {
