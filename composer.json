@@ -12,5 +12,7 @@
             "email": "levfrolov1221@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^13.19"
+    }
 }
