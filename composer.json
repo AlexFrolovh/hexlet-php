@@ -3,12 +3,12 @@
     "description": "php-project",
     "autoload": {
         "psr-4": {
-            "Alex\\HexletPhp\\": "src/"
+            "Lev\\HexletPhp\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Alex",
+            "name": "Lev",
             "email": "alexfrolovyh@list.ru"
         }
     ],
