@@ -1,6 +1,9 @@
 {
     "name": "lev/hexlet-php",
     "description": "php-project",
+    "scripts": [
+        "phpcs": "phpcs"
+    ],
     "autoload": {
         "psr-4": {
             "Lev\\HexletPhp\\": "src/"
